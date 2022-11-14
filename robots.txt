@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://amilkyboi.github.io/sitemap.xml
