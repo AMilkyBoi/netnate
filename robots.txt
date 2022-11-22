@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://amilkyboi.github.io/sitemap.xml
+Sitemap: https://www.netnate.com/sitemap.xml
